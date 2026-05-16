@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Follow these steps to get the project running on your local machine.
 1. 🔹 **Clone the repository to your local machine:**
 ```bash
- git clone https://github.com/Climber1705/connect4-minimax.git
+ git clone https://github.com/thomas-trotter/connect4-minimax.git
 ```
 2. 🔹 **Navigate into the project directory:**
 ```bash
